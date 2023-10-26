@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.atardecer {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, #fa3c02, #ffcc00, #fcbc0c, #ffe600);
+    position: relative;
+}
+
+.parrafo {
+    color: beige;
+    top: 50px;
+    left: 50px;
+}
+.sol {
+    width: 100px;
+    height: 100px;
+    background: #ffcc00; 
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
